@@ -1,6 +1,6 @@
 # lnguyen_cv
 
-> about my profile
+> infomation about me
 
 ## Build Setup
 
