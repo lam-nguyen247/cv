@@ -2,9 +2,7 @@
   <div>
     <b-container>
     <b-row>
-    <b-col>ABC</b-col>
-    <b-col>ABC</b-col>
-    <b-col>ABC</b-col>
+    
     </b-row>
     </b-container>
   </div>
