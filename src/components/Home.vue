@@ -44,8 +44,8 @@
         }
     }
     setTimeout(() => {
-        document.getElementById("loader").style.display="none";
-        document.getElementById("page").style.display="block";
+        // document.getElementById("loader").style.display="none";
+        // document.getElementById("page").style.display="block";
     }, 4000);
 </script>
 
