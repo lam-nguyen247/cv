@@ -170,7 +170,7 @@ export default {
         },
         //cài đặt nội dung modal về mặc định
         resetModal() {
-            //demo
+            //demo 123
             this.modalInfo.title = "";
 
             this.modalInfo.content = "";
