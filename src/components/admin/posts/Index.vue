@@ -171,6 +171,7 @@ export default {
         //cài đặt nội dung modal về mặc định
         resetModal() {
             //demo 123
+            //lamnt dev 123
             this.modalInfo.title = "";
 
             this.modalInfo.content = "";
